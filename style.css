@@ -1,0 +1,130 @@
+h2{
+    text-align: center;
+    margin: 10px 250px 0px 250px;
+    padding: 30px 30px 30px 30px;
+    border: 1px solid black ;
+   
+}
+
+body{
+    margin: 50px 195px 50px 74px;
+}
+
+
+
+
+
+.main_back{
+    margin: 0px 250px 0px 250px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    
+}
+
+.sec_back{
+    margin: 0px 260px 0px 250px;
+    padding: 0px 10px 0px 0px;
+    
+}
+
+
+
+
+
+#main_img{
+    margin: 50px 0px 50px 0px;
+    padding: 0px 650px 0px 300px; 
+}
+
+/*иконки*/
+
+
+
+#icon_pic{ 
+    border: 1px solid black;
+    margin: 0px 0px 20px 0px;
+    padding: 30px 30px 30px 30px;
+    
+}
+
+#f_link{
+    
+    border: 1px solid black;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    padding: 30px 30px 30px 30px;
+
+}
+
+#s_link{
+    border: 1px solid black;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    padding: 30px 30px 30px 30px;
+    
+    
+}
+
+#t_link{
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 30px 30px 30px 30px;
+
+}
+
+#fr_link{
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 30px 30px 30px 30px;
+
+}
+
+#ft_link{
+    
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 30px 30px 30px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*дивы иконок*/
+
+
+#point_1{
+    margin: -0.5px 0px 0px 0px;
+}
+
+#point_2{
+    margin: -149.5px 250px 0px 125px;
+}
+
+#point_3{
+    margin: -149.5px 0px 0px 249.5px ;
+}
+
+#point_4{
+    margin: -149.5px 0px 0px 374.5px;
+}
+
+#point_5{
+    margin: -149.5px 0px 0px 499.5px;
+}
+
+#point_6{
+    margin: -150px 0px 0px 625px;
+}
